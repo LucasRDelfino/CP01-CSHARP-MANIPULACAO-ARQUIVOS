@@ -21,20 +21,20 @@ O objetivo do projeto é demonstrar o uso de **programação assíncrona** (`asy
 cd C:\Users\labsfiap\Desktop\cp01\ProcessAsyncTxt
 ```
 
-2.Execute o projeto com o comando:
+2. Execute o projeto com o comando:
 
 ```bash
 dotnet run
 ```
 
-3.Quando solicitado, informe o diretório onde estão seus arquivos .txt.
+3. Quando solicitado, informe o diretório onde estão seus arquivos .txt.
 Exemplo:
 
 ```bash
 seucaminho/arquivos.txt
 ```
 
-4.O relatório será gerado automaticamente em:
+4. O relatório será gerado automaticamente em:
 
 ```bash
 C:\Users\labsfiap\Desktop\cp01\ProcessAsyncTxt\export\relatorio.txt
