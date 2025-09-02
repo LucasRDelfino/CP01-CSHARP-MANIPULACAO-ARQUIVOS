@@ -18,7 +18,7 @@ O objetivo do projeto é demonstrar o uso de **programação assíncrona** (`asy
 1. Abra o terminal na pasta do projeto (`ProcessAsyncTxt`):
    
 ```bash
-cd C:\Users\labsfiap\Desktop\cp01\ProcessAsyncTxt
+cd seucaminho\ProcessAsyncTxt
 ```
 
 2. Execute o projeto com o comando:
@@ -37,7 +37,7 @@ seucaminho/arquivos.txt
 4. O relatório será gerado automaticamente em:
 
 ```bash
-C:\Users\labsfiap\Desktop\cp01\ProcessAsyncTxt\export\relatorio.txt
+seucaminho\ProcessAsyncTxt\export\relatorio.txt
 ```
 
 # Integrantes
